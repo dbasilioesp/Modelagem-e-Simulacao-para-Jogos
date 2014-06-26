@@ -2,7 +2,11 @@
 
 *Modelagem e Simulacao para Jogos é uma disciplina da faculdade de Jogos Digitais da Unisinos de Porto Alegre.*  
 
-Origem do material: [http://professor.unisinos.br/linds/simuljogos.html](http://professor.unisinos.br/linds/simuljogos.html)
+Origem do material: [http://professor.unisinos.br/linds/simuljogos.html](http://professor.unisinos.br/linds/simuljogos.html)  
+
+Professor: Ernesto Lindstaedt  
+Email: unisinos.simul@gmail.com  
+Data: 2014/1  
 
 ### Bibliografia Complementar
                                                                                                         
